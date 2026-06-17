@@ -2,25 +2,27 @@
 
 本仓库发布 ZAgent 编译后的二进制文件，源码在私密仓库 samaidev/zagent。
 
-## 最新版本: v0.28.23
+## 📦 下载
 
-### 下载
+**所有版本下载**: https://github.com/samaidev/zagent_r/releases
+
+## 🚀 最新版本: v0.28.24
+
+下载页面: https://github.com/samaidev/zagent_r/releases/tag/v0.28.24
+
+### 可用文件
 
 | 平台 | 文件 |
 |------|------|
-| - | [zagent-android-arm64-0.28.22.apk](releases/0.28.23/zagent-android-arm64-0.28.22.apk) (13.5 MB) |
-| - | [zagent-darwin-amd64.tar.gz](releases/0.28.23/zagent-darwin-amd64.tar.gz) (8.7 MB) |
-| - | [zagent-darwin-arm64.tar.gz](releases/0.28.23/zagent-darwin-arm64.tar.gz) (8.1 MB) |
-| - | [zagent-linux-amd64.tar.gz](releases/0.28.23/zagent-linux-amd64.tar.gz) (8.6 MB) |
-| - | [zagent-linux-arm64.tar.gz](releases/0.28.23/zagent-linux-arm64.tar.gz) (7.8 MB) |
-| - | [zagent-windows-amd64.zip](releases/0.28.23/zagent-windows-amd64.zip) (8.9 MB) |
-| - | [zagent-windows-arm64.zip](releases/0.28.23/zagent-windows-arm64.zip) (8.0 MB) |
+| Linux x86_64 | `zagent-linux-amd64.tar.gz` |
+| Linux ARM64 | `zagent-linux-arm64.tar.gz` |
+| macOS Intel | `zagent-darwin-amd64.tar.gz` |
+| macOS Apple Silicon | `zagent-darwin-arm64.tar.gz` |
+| Windows x86_64 | `zagent-windows-amd64.zip` |
+| Windows ARM64 | `zagent-windows-arm64.zip` |
+| Android ARM64 | `zagent-android-arm64-*.apk` |
 
-## 所有版本
-
-- [v0.28.23](releases/0.28.23/)
-
-## 安装
+## 📥 安装
 
 ### Linux/macOS
 
@@ -32,12 +34,16 @@ tar xzf zagent-<platform>.tar.gz
 
 ### Windows
 
-下载 zip 文件，解压后运行 zagent.exe
+下载 zip 文件，解压后运行 `zagent.exe`
 
 ### Android
 
 下载 APK 文件并安装
 
+## 📜 所有版本
+
+- [ZAgent v0.28.24](https://github.com/samaidev/zagent_r/releases/tag/v0.28.24) (2026-06-17)
+
 ---
 
-由 SamAI CI 自动构建发布
+*由 SamAI CI 自动构建发布*
