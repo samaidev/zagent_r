@@ -6,9 +6,9 @@
 
 **所有版本下载**: https://github.com/samaidev/zagent_r/releases
 
-## 🚀 最新版本: v0.28.25
+## 🚀 最新版本: v0.28.28
 
-下载页面: https://github.com/samaidev/zagent_r/releases/tag/v0.28.25
+下载页面: https://github.com/samaidev/zagent_r/releases/tag/v0.28.28
 
 ### 可用文件
 
@@ -42,6 +42,8 @@ tar xzf zagent-<platform>.tar.gz
 
 ## 📜 所有版本
 
+- [ZAgent v0.28.28](https://github.com/samaidev/zagent_r/releases/tag/v0.28.28) (2026-06-18)
+- [v0.28.27](https://github.com/samaidev/zagent_r/releases/tag/v0.28.27) (2026-06-18)
 - [ZAgent v0.28.25](https://github.com/samaidev/zagent_r/releases/tag/v0.28.25) (2026-06-17)
 - [ZAgent v0.28.24](https://github.com/samaidev/zagent_r/releases/tag/v0.28.24) (2026-06-17)
 
