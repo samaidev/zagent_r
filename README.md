@@ -1,16 +1,142 @@
-# ZAgent 公开发布仓
+<div align="center">
 
-本仓库发布 ZAgent 编译后的二进制文件，源码在私密仓库 samaidev/zagent。
+# ZAgent
 
-## 📦 下载
+### Lightweight Cross-Platform AI Agent for AICQ
 
-**所有版本下载**: https://github.com/samaidev/zagent_r/releases
+**🌐 Website: [zagent.samai.cc](https://zagent.samai.cc)**
 
-## 🚀 最新版本: v0.28.37
+[![Download](https://img.shields.io/badge/Download-latest-blue)](https://github.com/samaidev/zagent_r/releases)
+[![PyPI](https://img.shields.io/pypi/v/samai-zagent)](https://pypi.org/project/samai-zagent/)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Android-green)](#download)
 
-下载页面: https://github.com/samaidev/zagent_r/releases/tag/v0.28.37
+**English** | [中文](#中文)
 
-### 可用文件
+</div>
+
+---
+
+## Overview
+
+ZAgent is a lightweight, cross-platform AI agent with streaming chat, tool use, workflow automation, and stealth browser capabilities. It connects to the AICQ messaging platform for real-time AI assistance.
+
+**For full documentation, features, and guides, visit [zagent.samai.cc](https://zagent.samai.cc)**
+
+## Quick Install
+
+### pip (recommended, cross-platform)
+
+```bash
+pip install samai-zagent
+```
+
+After install, run:
+
+```bash
+zagent
+```
+
+### One-line install
+
+| Platform | Command |
+|----------|---------|
+| Linux / macOS | `curl -fsSL https://zagent.samai.cc/install.sh \| bash` |
+| Windows (PowerShell) | `irm https://zagent.samai.cc/install.ps1 \| iex` |
+
+## Download
+
+**Latest version: v0.28.37** — [Download here](https://github.com/samaidev/zagent_r/releases/latest)
+
+| Platform | File |
+|----------|------|
+| Linux x86_64 | `zagent-linux-amd64.tar.gz` |
+| Linux ARM64 | `zagent-linux-arm64.tar.gz` |
+| macOS Intel | `zagent-darwin-amd64.tar.gz` |
+| macOS Apple Silicon | `zagent-darwin-arm64.tar.gz` |
+| Windows x86_64 | `zagent-windows-amd64.zip` |
+| Windows ARM64 | `zagent-windows-arm64.zip` |
+| Android ARM64 | `zagent-android-arm64-*.apk` |
+
+## Key Features
+
+- **Streaming Chat** — Real-time responses with collapsible reasoning panel
+- **30+ Built-in Tools** — File ops, command execution, code execution, web search, browser automation
+- **Workflow Automation** — Create and run multi-step automated workflows
+- **Stealth Browser** — Anti-detection Chrome automation
+- **Persistent Memory** — SQLite-backed memory with keyword search
+- **Multi-Platform** — Linux, macOS, Windows (amd64 + arm64), Android
+
+## All Versions
+
+See [Releases page](https://github.com/samaidev/zagent_r/releases) for all versions and changelogs.
+
+## Links
+
+- **Website**: [zagent.samai.cc](https://zagent.samai.cc)
+- **Install Guide**: [zagent.samai.cc/install.html](https://zagent.samai.cc/install.html)
+- **PyPI**: [pypi.org/project/samai-zagent](https://pypi.org/project/samai-zagent/)
+- **Live Demo**: [zagent.aitun.cc](https://zagent.aitun.cc)
+
+## License
+
+MIT
+
+## Contact
+
+admin@samai.cc
+
+---
+
+<div align="center">
+
+# ZAgent
+
+### 轻量级跨平台 AI 智能体 (AICQ)
+
+**🌐 官网: [zagent.samai.cc](https://zagent.samai.cc)**
+
+[![下载](https://img.shields.io/badge/下载-最新版-blue)](https://github.com/samaidev/zagent_r/releases)
+[![PyPI](https://img.shields.io/pypi/v/samai-zagent)](https://pypi.org/project/samai-zagent/)
+[![平台](https://img.shields.io/badge/平台-Linux%20%7C%20macOS%20%7C%20Windows%20%7C%20Android-green)](#下载)
+
+[English](#overview) | **中文**
+
+</div>
+
+---
+
+## 中文
+
+## 简介
+
+ZAgent 是一个轻量级、跨平台的 AI 智能体，支持流式对话、工具调用、工作流自动化和隐身浏览器功能。它连接 AICQ 消息平台，提供实时 AI 助手服务。
+
+**完整文档、功能介绍和使用指南，请访问 [zagent.samai.cc](https://zagent.samai.cc)**
+
+## 快速安装
+
+### pip 安装（推荐，跨平台）
+
+```bash
+pip install samai-zagent
+```
+
+安装后运行：
+
+```bash
+zagent
+```
+
+### 一键安装
+
+| 平台 | 命令 |
+|------|------|
+| Linux / macOS | `curl -fsSL https://zagent.samai.cc/install.sh \| bash` |
+| Windows (PowerShell) | `irm https://zagent.samai.cc/install.ps1 \| iex` |
+
+## 下载
+
+**最新版本: v0.28.37** — [点击下载](https://github.com/samaidev/zagent_r/releases/latest)
 
 | 平台 | 文件 |
 |------|------|
@@ -22,36 +148,30 @@
 | Windows ARM64 | `zagent-windows-arm64.zip` |
 | Android ARM64 | `zagent-android-arm64-*.apk` |
 
-## 📥 安装
+## 主要功能
 
-### Linux/macOS
+- **流式对话** — 实时回复，带可折叠的推理面板
+- **30+ 内置工具** — 文件操作、命令执行、代码执行、网页搜索、浏览器自动化
+- **工作流自动化** — 创建并执行多步骤自动化工作流
+- **隐身浏览器** — 反检测 Chrome 自动化
+- **持久化记忆** — SQLite 存储，支持关键词搜索
+- **多平台** — Linux、macOS、Windows (amd64 + arm64)、Android
 
-```bash
-# 下载对应平台的 tar.gz
-tar xzf zagent-<platform>.tar.gz
-./zagent -name ZAgent
-```
+## 所有版本
 
-### Windows
+请访问 [Releases 页面](https://github.com/samaidev/zagent_r/releases) 查看所有版本和更新日志。
 
-下载 zip 文件，解压后运行 `zagent.exe`
+## 链接
 
-### Android
+- **官网**: [zagent.samai.cc](https://zagent.samai.cc)
+- **安装指南**: [zagent.samai.cc/install.html](https://zagent.samai.cc/install.html)
+- **PyPI**: [pypi.org/project/samai-zagent](https://pypi.org/project/samai-zagent/)
+- **在线体验**: [zagent.aitun.cc](https://zagent.aitun.cc)
 
-下载 APK 文件并安装
+## 许可证
 
-## 📜 所有版本
+MIT
 
-- [ZAgent v0.28.37](https://github.com/samaidev/zagent_r/releases/tag/v0.28.37) (2026-06-23)
-- [ZAgent v0.28.35](https://github.com/samaidev/zagent_r/releases/tag/v0.28.35) (2026-06-22)
-- [ZAgent v0.28.34](https://github.com/samaidev/zagent_r/releases/tag/v0.28.34) (2026-06-22)
-- [ZAgent v0.28.33](https://github.com/samaidev/zagent_r/releases/tag/v0.28.33) (2026-06-21)
-- [ZAgent v0.28.29](https://github.com/samaidev/zagent_r/releases/tag/v0.28.29) (2026-06-18)
-- [ZAgent v0.28.28](https://github.com/samaidev/zagent_r/releases/tag/v0.28.28) (2026-06-18)
-- [v0.28.27](https://github.com/samaidev/zagent_r/releases/tag/v0.28.27) (2026-06-18)
-- [ZAgent v0.28.25](https://github.com/samaidev/zagent_r/releases/tag/v0.28.25) (2026-06-17)
-- [ZAgent v0.28.24](https://github.com/samaidev/zagent_r/releases/tag/v0.28.24) (2026-06-17)
+## 联系方式
 
----
-
-*由 SamAI CI 自动构建发布*
+admin@samai.cc
