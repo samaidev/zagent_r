@@ -43,7 +43,18 @@ zagent
 - **Multi-Platform** — Linux, macOS, Windows (amd64 + arm64), Android
 <!-- SAMAI-CI-RELEASES-START -->
 ## 📜 All Versions
-- [v0.28.40](https://github.com/samaidev/zagent_r/releases/tag/v0.28.40) (2026-06-25)
+- [ZAgent v0.28.43](https://github.com/samaidev/zagent_r/releases/tag/v0.28.43) (2026-06-26)
+- [ZAgent v0.28.40](https://github.com/samaidev/zagent_r/releases/tag/v0.28.40) (2026-06-25)
+- [ZAgent v0.28.38](https://github.com/samaidev/zagent_r/releases/tag/v0.28.38) (2026-06-24)
+- [ZAgent v0.28.37](https://github.com/samaidev/zagent_r/releases/tag/v0.28.37) (2026-06-23)
+- [ZAgent v0.28.35](https://github.com/samaidev/zagent_r/releases/tag/v0.28.35) (2026-06-22)
+- [ZAgent v0.28.34](https://github.com/samaidev/zagent_r/releases/tag/v0.28.34) (2026-06-22)
+- [ZAgent v0.28.33](https://github.com/samaidev/zagent_r/releases/tag/v0.28.33) (2026-06-21)
+- [ZAgent v0.28.29](https://github.com/samaidev/zagent_r/releases/tag/v0.28.29) (2026-06-18)
+- [ZAgent v0.28.28](https://github.com/samaidev/zagent_r/releases/tag/v0.28.28) (2026-06-18)
+- [v0.28.27](https://github.com/samaidev/zagent_r/releases/tag/v0.28.27) (2026-06-18)
+- [ZAgent v0.28.25](https://github.com/samaidev/zagent_r/releases/tag/v0.28.25) (2026-06-17)
+- [ZAgent v0.28.24](https://github.com/samaidev/zagent_r/releases/tag/v0.28.24) (2026-06-17)
 <!-- SAMAI-CI-RELEASES-END -->
 ## Links
 - **Website**: [zagent.samai.cc](https://zagent.samai.cc)
