@@ -24,7 +24,7 @@ zagent
 | Linux / macOS | `curl -fsSL https://zagent.samai.cc/install.sh \| bash` |
 | Windows (PowerShell) | `irm https://zagent.samai.cc/install.ps1 \| iex` |
 ## Download
-**Latest version: v0.28.86** — [Download here](https://github.com/samaidev/zagent_r/releases/latest)
+**[Download latest](https://github.com/samaidev/zagent_r/releases/latest)**
 | Platform | File |
 |----------|------|
 | Linux x86_64 | `zagent-linux-amd64.tar.gz` |
@@ -119,7 +119,7 @@ zagent
 | Linux / macOS | `curl -fsSL https://zagent.samai.cc/install.sh \| bash` |
 | Windows (PowerShell) | `irm https://zagent.samai.cc/install.ps1 \| iex` |
 ## 下载
-**最新版本: v0.28.86** — [点击下载](https://github.com/samaidev/zagent_r/releases/latest)
+**[点击下载最新版](https://github.com/samaidev/zagent_r/releases/latest)**
 | 平台 | 文件 |
 |------|------|
 | Linux x86_64 | `zagent-linux-amd64.tar.gz` |
