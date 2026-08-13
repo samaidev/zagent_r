@@ -43,6 +43,7 @@ zagent
 - **Multi-Platform** — Linux, macOS, Windows (amd64 + arm64), Android
 <!-- SAMAI-CI-RELEASES-START -->
 ## 📜 All Versions
+- [ZAgent v0.28.109](https://github.com/samaidev/zagent_r/releases/tag/v0.28.109) (2026-08-13)
 - [ZAgent v0.28.108](https://github.com/samaidev/zagent_r/releases/tag/v0.28.108) (2026-08-13)
 - [ZAgent v0.28.107](https://github.com/samaidev/zagent_r/releases/tag/v0.28.107) (2026-08-12)
 - [ZAgent v0.28.106](https://github.com/samaidev/zagent_r/releases/tag/v0.28.106) (2026-08-12)
