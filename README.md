@@ -71,7 +71,41 @@ zagent          # 默认 Web UI :8181，浏览器打开 http://localhost:8181
 | Android ARM64 | `zagent-android-arm64-*.apk` |
 
 <!-- SAMAI-CI-RELEASES-START -->
-<!-- 本区块由 CI 在发版时自动维护；完整版本列表见 Releases 页面 -->
+## 📜 All Versions
+- [ZAgent v0.30.38](https://github.com/samaidev/zagent_r/releases/tag/v0.30.38) (2026-08-27)
+- [ ](https://github.com/samaidev/zagent_r/releases/tag/v0.30.37) (2026-08-27)
+- [ ](https://github.com/samaidev/zagent_r/releases/tag/v0.30.36) (2026-08-27)
+- [ ](https://github.com/samaidev/zagent_r/releases/tag/v0.30.35) (2026-08-27)
+- [ ](https://github.com/samaidev/zagent_r/releases/tag/v0.30.34) (2026-08-27)
+- [ZAgent v0.30.33](https://github.com/samaidev/zagent_r/releases/tag/v0.30.33) (2026-08-27)
+- [ZAgent v0.30.32](https://github.com/samaidev/zagent_r/releases/tag/v0.30.32) (2026-08-27)
+- [ZAgent v0.30.31](https://github.com/samaidev/zagent_r/releases/tag/v0.30.31) (2026-08-27)
+- [ZAgent v0.30.30](https://github.com/samaidev/zagent_r/releases/tag/v0.30.30) (2026-08-26)
+- [ZAgent v0.30.29](https://github.com/samaidev/zagent_r/releases/tag/v0.30.29) (2026-08-26)
+- [ZAgent v0.30.28](https://github.com/samaidev/zagent_r/releases/tag/v0.30.28) (2026-08-26)
+- [ZAgent v0.30.27](https://github.com/samaidev/zagent_r/releases/tag/v0.30.27) (2026-08-26)
+- [ZAgent v0.30.26](https://github.com/samaidev/zagent_r/releases/tag/v0.30.26) (2026-08-25)
+- [ZAgent v0.30.25](https://github.com/samaidev/zagent_r/releases/tag/v0.30.25) (2026-08-24)
+- [ZAgent v0.30.24](https://github.com/samaidev/zagent_r/releases/tag/v0.30.24) (2026-08-24)
+- [ZAgent v0.30.23](https://github.com/samaidev/zagent_r/releases/tag/v0.30.23) (2026-08-24)
+- [ZAgent v0.30.22](https://github.com/samaidev/zagent_r/releases/tag/v0.30.22) (2026-08-24)
+- [ZAgent v0.30.21](https://github.com/samaidev/zagent_r/releases/tag/v0.30.21) (2026-08-24)
+- [ZAgent v0.30.18](https://github.com/samaidev/zagent_r/releases/tag/v0.30.18) (2026-08-24)
+- [ZAgent v0.30.17](https://github.com/samaidev/zagent_r/releases/tag/v0.30.17) (2026-08-24)
+- [ZAgent v0.30.16](https://github.com/samaidev/zagent_r/releases/tag/v0.30.16) (2026-08-24)
+- [ZAgent v0.30.15](https://github.com/samaidev/zagent_r/releases/tag/v0.30.15) (2026-08-24)
+- [ZAgent v0.30.14](https://github.com/samaidev/zagent_r/releases/tag/v0.30.14) (2026-08-24)
+- [ZAgent v0.30.12](https://github.com/samaidev/zagent_r/releases/tag/v0.30.12) (2026-08-24)
+- [ZAgent v0.30.11](https://github.com/samaidev/zagent_r/releases/tag/v0.30.11) (2026-08-23)
+- [ZAgent v0.30.10](https://github.com/samaidev/zagent_r/releases/tag/v0.30.10) (2026-08-23)
+- [ZAgent v0.30.9](https://github.com/samaidev/zagent_r/releases/tag/v0.30.9) (2026-08-23)
+- [ZAgent v0.30.8](https://github.com/samaidev/zagent_r/releases/tag/v0.30.8) (2026-08-23)
+- [ZAgent v0.30.7](https://github.com/samaidev/zagent_r/releases/tag/v0.30.7) (2026-08-23)
+- [ZAgent v0.30.6](https://github.com/samaidev/zagent_r/releases/tag/v0.30.6) (2026-08-23)
+- [ZAgent v0.30.5](https://github.com/samaidev/zagent_r/releases/tag/v0.30.5) (2026-08-23)
+- [ZAgent v0.30.4](https://github.com/samaidev/zagent_r/releases/tag/v0.30.4) (2026-08-23)
+- [ZAgent v0.30.3](https://github.com/samaidev/zagent_r/releases/tag/v0.30.3) (2026-08-23)
+- [ZAgent v0.30.0](https://github.com/samaidev/zagent_r/releases/tag/v0.30.0) (2026-08-23)
 <!-- SAMAI-CI-RELEASES-END -->
 
 ## 链接 / Links
