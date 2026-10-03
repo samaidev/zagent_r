@@ -71,12 +71,10 @@ zagent          # 默认 Web UI :8181，浏览器打开 http://localhost:8181
 | Android ARM64 | `zagent-android-arm64-*.apk` |
 
 <!-- SAMAI-CI-RELEASES-START -->
-## 📜 Recent Versions (Latest 3)
-- [v0.32.33](https://github.com/samaidev/zagent_r/releases/tag/v0.32.33) (2026-10-02)
-- [v0.32.31](https://github.com/samaidev/zagent_r/releases/tag/v0.32.31) (2026-10-02)
-- [v0.32.30](https://github.com/samaidev/zagent_r/releases/tag/v0.32.30) (2026-10-01)
-
-> ℹ️ Only the 3 most recent releases are kept. Older releases have been cleaned up.
+## 📜 All Versions
+- [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.33) (2026-10-02)
+- [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.31) (2026-10-02)
+- [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.30) (2026-10-02)
 <!-- SAMAI-CI-RELEASES-END -->
 
 ## 链接 / Links
