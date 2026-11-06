@@ -72,6 +72,7 @@ zagent          # 默认 Web UI :8181，浏览器打开 http://localhost:8181
 
 <!-- SAMAI-CI-RELEASES-START -->
 ## 📜 All Versions
+- [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.96) (2026-11-06)
 - [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.95) (2026-11-04)
 - [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.94) (2026-11-01)
 - [](https://github.com/samaidev/zagent_r/releases/tag/v0.32.93) (2026-10-31)
