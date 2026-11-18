@@ -1,0 +1,4 @@
+v0.32.133
+ZAgent-0.32.133-windows-amd64-setup.exe
+19814120
+36cdb35cab61e4a11179c345a9e6d88883f2fc9327c18b46eb3ac33127ebca19
